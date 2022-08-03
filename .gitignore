@@ -1,0 +1,6 @@
+tmp/
+*.*_old
+*.*_backup
+.ds_store
+img/.ds_store
+img/thumbs.db
